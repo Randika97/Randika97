@@ -51,7 +51,7 @@
 - [Student Registration System](http://13.212.144.97/2020/10/05/student-registration-system/)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](www.randikasuridu.me)
+➡️ [more blog posts...](randikasuridu.me)
 
 ---
 
