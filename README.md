@@ -1,19 +1,19 @@
-### Hi there, I'm Randika - aka [The Mechanic][website] 👋
+### Hi there, I'm Randika - aka [The Mechanic] 👋
 
-[![Website](https://img.shields.io/website?label=randikasuridu.me&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://randikasuridu.me)
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/randika_suridu?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/randika_suridu)
 
-## I'm a Developer, Contirbutor & Freelancer!!
+## I'm a Software Engineer, Contirbutor & Freelancer!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything
 - 👯 I’m looking to new Technologies around the world
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to hiking
 
 
 ### Connect with me:
 
-[<img align="left" alt="randikasuridu.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="medium" width="22px" src="https://img.icons8.com/ios-filled/50/000000/medium-monogram--v1.png" />][Medium]
 [<img align="left" alt="Randika97 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Randika97 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Randika97 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
