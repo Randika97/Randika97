@@ -1,6 +1,6 @@
 ### Hi there, I'm Randika - aka [The Mechanic] 👋
 
-
+[![Medium Follow](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@randikasuridu)
 [![Twitter Follow](https://img.shields.io/twitter/follow/randika_suridu?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/randika_suridu)
 
 ## I'm a Software Engineer, Contirbutor & Freelancer!!
