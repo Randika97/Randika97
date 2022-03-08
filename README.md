@@ -13,7 +13,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="medium" width="22px" src="https://img.icons8.com/ios-filled/50/000000/medium-monogram--v1.png" />][Medium]
+[<img align="left" alt="randikasuridu | Medium" width="22px" src="https://img.icons8.com/ios-filled/50/000000/medium-monogram--v1.png" />][Medium]
 [<img align="left" alt="Randika97 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Randika97 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Randika97 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -46,17 +46,19 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [First Year web Site development for server side using PHP](http://13.212.144.97/2020/10/06/first-year-web-site-development-for-server-side-using-php/)
-- [J2EE Web Application](http://13.212.144.97/2020/10/06/j2ee-web-application/)
-- [Student Registration System](http://13.212.144.97/2020/10/05/student-registration-system/)
+- [Introduction to Java Programming Environment](https://medium.com/@randikasuridu/introduction-to-java-programming-environment-7d3a08840f52)
+- [Java Basics](https://medium.com/@randikasuridu/java-basics-305062b95a78)
+- [Data types in Java](https://medium.com/@randikasuridu/data-types-in-java-5e7239a0185c)
+- [Chain Of Responsibility pattern for loose coupling in java programming](https://medium.com/@randikasuridu/chain-of-responsibility-pattern-for-loose-coupling-in-java-programming-f2709c6552d9)
+- [How to avoid the telescopic constructors with builder pattern design pattern in JAVA](https://medium.com/@randikasuridu/how-to-avoid-the-telescopic-constructors-with-builder-pattern-design-pattern-in-java-ce2787be7c76)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](randikasuridu.me)
+➡️ [more blog posts...](https://medium.com/@randikasuridu)
 
 ---
 
 
-[website]: http://randikasuridu.me
+[Medium]: https://medium.com/@randikasuridu
 [twitter]: https://twitter.com/randika_suridu
 [instagram]: https://www.instagram.com/_the_mechanic__
 [linkedin]: https://www.linkedin.com/in/randika-suridu/
