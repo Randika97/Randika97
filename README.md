@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to new Technologies around the world
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to hiking
 
 
